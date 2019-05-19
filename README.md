@@ -7,5 +7,4 @@ to classify the boats according to the type of boat. To solve the problem it
 has been used a convolutional neural network approach with preprocessing
 of the images.
 After building multiple models with different parameters in the convolutional
-neural network, the model has been tested on a validation dataset still pro-
-vided by MarDCT.
+neural network, the model has been tested on a validation dataset still provided by MarDCT.
