@@ -16,12 +16,12 @@ ARGOS controls a water canal of about 6 km length, with a width between
 80 and 150 meters. Cameras are connected to a dedicated computer where
 high resolution color images are acquired and processed.
 ARGOS provides the following main functionalities:
- Optical detection and tracking of moving targets present in the field of
+- Optical detection and tracking of moving targets present in the field of
 view of each survey cell;
- Computing position, speed, and heading of any moving target observed
+- Computing position, speed, and heading of any moving target observed
 by a cell;
- Automatic detection of a set of predened events;
- Transmission of data and video stream to the Control Center.
+- Automatic detection of a set of predened events;
+- Transmission of data and video stream to the Control Center.
 
 Given the dataset provided by MarDCT (Maritime detection, classification
 and tracking dataset) of the Venice boats images, build an image classifier
